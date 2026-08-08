@@ -59,3 +59,39 @@ Data Storage
 Data Warehouse
      ↓
 Analytics & Insights
+## 🤝 Let's Connect
+
+I'm interested in **Cloud Data Engineering, Data Pipelines,
+Software Development, Cloud Computing, and technology projects.**
+
+| Channel | Link |
+|---|---|
+| 📧 Email | [anusch2026@gmail.com](mailto:anusch2026@gmail.com) |
+| 🔗 LinkedIn | [Muhammad Anus](https://www.linkedin.com/in/muhammad-anus-8330a1407/) |
+| 💻 GitHub | [anusch2026-svg](https://github.com/anusch2026-svg) |
+
+<p align="center">
+
+<a href="mailto:anusch2026@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-anus-8330a1407/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/anusch2026-svg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Learn • Build • Innovate • Scale
+
+⭐ Thanks for visiting my profile!
+
+</div>
