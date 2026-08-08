@@ -71,18 +71,6 @@ A pipeline isn't done when the data "arrives" — it's done when the data can be
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anusch2026-svg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anusch2026-svg&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusch2026-svg&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
