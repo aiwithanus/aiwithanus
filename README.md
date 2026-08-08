@@ -64,16 +64,7 @@ I'm currently sharpening my skills in **Python, SQL, ETL/ELT, Data Pipelines, Cl
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anusch2026-svg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anusch2026-svg&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<br/>
 
 ## 🤝 Let's Connect
 
