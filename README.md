@@ -79,7 +79,7 @@ I'm always happy to talk about **Cloud Data Engineering, data pipelines, cloud i
 | Channel | Link |
 |---|---|
 | 📧 Email | [anusch2026@gmail.com](mailto:anusch2026@gmail.com) |
-| 🔗 LinkedIn | [Muhammad Anus](https://www.linkedin.com/in/muhammad-anus-8330a1407/) |
+| 🔗 LinkedIn | [Muhammad Anus](https://www.linkedin.com/in/muhammad-anus-6b7b3b42b/) |
 | 💻 GitHub | [anusch2026-svg](https://github.com/anusch2026-svg) |
 
 ---
