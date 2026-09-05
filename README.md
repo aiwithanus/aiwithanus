@@ -4,9 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-anus-6b7b3b42b/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anusch2026@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anusch2026-svg)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aiwithanus)
 
-![Profile Views](https://komarev.com/ghpvc/?username=anusch2026-svg&color=2EA6EE&style=flat-square&label=Profile+Views)
 
 ---
 
@@ -80,7 +79,7 @@ I'm always happy to talk about **Cloud Data Engineering, data pipelines, cloud i
 |---|---|
 | 📧 Email | [anusch2026@gmail.com](mailto:anusch2026@gmail.com) |
 | 🔗 LinkedIn | [Muhammad Anus](https://www.linkedin.com/in/muhammad-anus-6b7b3b42b/) |
-| 💻 GitHub | [anusch2026-svg](https://github.com/anusch2026-svg) |
+| 💻 GitHub | [anusch2026-svg](https://github.com/aiwithanus) |
 
 ---
 
