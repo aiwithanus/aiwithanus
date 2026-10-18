@@ -36,7 +36,7 @@ Right now, I'm deep in the process of building real skills in **Python, SQL, ETL
 ## 🛠️ Technical Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,aws,azure,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,sql,aws,azure,git,github,vscode" />
 </p>
 
 | Category | Technologies |
@@ -44,7 +44,7 @@ Right now, I'm deep in the process of building real skills in **Python, SQL, ETL
 | 🐍 **Languages** | `Python` `SQL` |
 | ☁️ **Cloud Platforms** | `Cloud Computing` `AWS` `Azure` |
 | 🔄 **Data Engineering** | `ETL` `ELT` `Data Pipelines` `Data Processing` |
-| 🗄️ **Databases** | `SQL` `MySQL` `PostgreSQL` |
+| 🗄️ **Databases** | `SQL` |
 | 📊 **Data Handling** | `Data Cleaning` `Data Transformation` `Data Analysis` |
 | ⚙️ **Tools & Workflow** | `Git` `GitHub` `VS Code` |
 
