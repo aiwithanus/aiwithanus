@@ -91,11 +91,13 @@ A pipeline isn't done when the data "arrives" — it's done when the data can be
 
 I'm always happy to talk about **Cloud Data Engineering, data pipelines, cloud infrastructure, or anything data-related**. If you're working on something interesting in this space, or just want to connect — reach out.
 
+
 | Channel | Link |
 |---|---|
 | 📧 Email | [anusch2026@gmail.com](mailto:anusch2026@gmail.com) |
 | 🔗 LinkedIn | [Muhammad Anus](https://www.linkedin.com/in/muhammad-anus-6b7b3b42b/) |
 | 💻 GitHub | [aiwithanus](https://github.com/aiwithanus) |
+| 🌐 TRELQO TECH | [Your Vision, Our Tech](https://trelqotech.vercel.app/) |
 
 ---
 
