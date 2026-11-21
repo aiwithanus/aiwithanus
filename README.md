@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Muhammad Anus
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA6EE&center=true&vCenter=true&width=650&lines=Cloud+Data+Engineer;Python+%7C+SQL+%7C+ETL%2FELT;Building+Scalable+Data+Pipelines;Turning+Raw+Data+Into+Insight)
@@ -6,6 +7,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aiwithanus)
 [![Email](https://img.shields.io/badge/Email-anusch2026%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anusch2026@gmail.com)
 
+---
+
 ## 🚀 About Me
 
 I'm an aspiring **Cloud Data Engineer** who's passionate about turning messy, raw data into clean, reliable, and actionable systems. I love the puzzle of moving data efficiently — from source, through transformation, into a warehouse — in a way that's scalable, automated, and trustworthy.
@@ -13,7 +16,7 @@ I'm an aspiring **Cloud Data Engineer** who's passionate about turning messy, ra
 Right now, I'm deep in the process of building real skills in **Python, SQL, ETL/ELT design, data pipelines, cloud platforms, and database systems**, and I back that learning up with hands-on, real-world projects rather than just theory.
 
 - 🔭 I'm currently strengthening my foundations in **Cloud Data Engineering**
-- 🌱 I'm actively learning **AWS, Azure, and modern ETL/ELT workflows**
+- 🌱 I'm actively learning **AWS, Azure, Snowflake, and modern ETL/ELT workflows**
 - 🎯 My goal is to become a **production-ready Cloud Data Engineer**
 - 💬 Ask me about **Python, SQL, data pipelines, or ETL/ELT design**
 - ⚡ Fun fact: I enjoy taking messy, chaotic data and turning it into something structured and useful
@@ -36,17 +39,34 @@ Right now, I'm deep in the process of building real skills in **Python, SQL, ETL
 ## 🛠️ Technical Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,aws,azure,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,sql,aws,azure,git,github,vscode" />
 </p>
 
 | Category | Technologies |
 |---|---|
 | 🐍 **Languages** | `Python` `SQL` |
 | ☁️ **Cloud Platforms** | `Cloud Computing` `AWS` `Azure` |
+| ❄️ **Data Warehouse** | `Snowflake` |
 | 🔄 **Data Engineering** | `ETL` `ELT` `Data Pipelines` `Data Processing` |
-| 🗄️ **Databases** | `SQL` |
+| 🗄️ **Databases** | `SQL` `Snowflake` |
 | 📊 **Data Handling** | `Data Cleaning` `Data Transformation` `Data Analysis` |
 | ⚙️ **Tools & Workflow** | `Git` `GitHub` `VS Code` |
+
+---
+
+## 🏅 Certifications & Achievements
+
+### ❄️ Snowflake
+
+**1. Snowflake Hands-On Badge 2 – Collaboration, Marketplace & Cost Estimation Workshop**
+
+- Topics: Data Collaboration, Snowflake Marketplace, Cost Estimation.
+- [🔗 View Certificate on LinkedIn](https://www.linkedin.com/in/muhammad-anus-6b7b3b42b/overlay/Certifications/2025982192/treasury/?profileId=ACoAAGzptSsBZmwWdXC4Kkwws2k6YhoZxveiNBs)
+
+**2. Snowflake – Data Warehousing Workshop (Badge 1) Certificate**
+
+- Topics: Cloud Data Warehousing, Database Fundamentals, Snowflake Account Setup, Security Basics.
+- [🔗 View Certificate on LinkedIn](https://www.linkedin.com/in/muhammad-anus-6b7b3b42b/overlay/Certifications/1860830541/treasury/?profileId=ACoAAGzptSsBZmwWdXC4Kkwws2k6YhoZxveiNBs)
 
 ---
 
@@ -56,17 +76,16 @@ A pipeline isn't done when the data "arrives" — it's done when the data can be
 
 **Data Sources** → **Ingestion** → **ETL / ELT** → **Cleaning** → **Transformation** → **Storage** → **Data Warehouse** → **Analytics & Insights**
 
-1. **Data Sources** — Identify where the data comes from (APIs, databases, files, streams)
-2. **Ingestion** — Pull the data in reliably and consistently
-3. **ETL / ELT** — Extract, transform (or load first, then transform), depending on the use case
-4. **Cleaning** — Handle missing values, duplicates, and inconsistencies
-5. **Transformation** — Reshape data into the structure the business actually needs
-6. **Storage** — Land the data somewhere durable and queryable
-7. **Data Warehouse** — Organize it for fast, structured analytical access
-8. **Analytics & Insights** — Deliver the numbers that actually drive decisions
+1. **Data Sources** — Identify where the data comes from (APIs, databases, files, streams).
+2. **Ingestion** — Pull the data in reliably and consistently.
+3. **ETL / ELT** — Extract, transform (or load first, then transform), depending on the use case.
+4. **Cleaning** — Handle missing values, duplicates, and inconsistencies.
+5. **Transformation** — Reshape data into the structure the business actually needs.
+6. **Storage** — Land the data somewhere durable and queryable.
+7. **Data Warehouse** — Organize it for fast, structured analytical access.
+8. **Analytics & Insights** — Deliver the numbers that actually drive decisions.
 
 ---
-
 
 ## 🤝 Let's Connect
 
@@ -76,11 +95,12 @@ I'm always happy to talk about **Cloud Data Engineering, data pipelines, cloud i
 |---|---|
 | 📧 Email | [anusch2026@gmail.com](mailto:anusch2026@gmail.com) |
 | 🔗 LinkedIn | [Muhammad Anus](https://www.linkedin.com/in/muhammad-anus-6b7b3b42b/) |
-| 💻 GitHub | [anusch2026-svg](https://github.com/aiwithanus) |
+| 💻 GitHub | [aiwithanus](https://github.com/aiwithanus) |
 
 ---
 
 <p align="center">
-<b>🚀 Learn • Build • Scale</b><br/>
-⭐ Thanks for stopping by — I'm always building something new.
+  <b>🚀 Learn • Build • Scale</b>
+  <br/>
+  ⭐ Thanks for stopping by — I'm always building something new.
 </p>
